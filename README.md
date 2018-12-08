@@ -125,3 +125,7 @@ Additionally this project is supported by
 
 * [![KeyCDN](https://conversejs.org/logo/keycdn.png)](https://www.keycdn.com/)
 * [![Wikisuite](https://conversejs.org/logo/wikisuite.png)](https://wikisuite.org)
+
+## BMXHashy
+
+forked it to learn how forks work. It will be a 'special edition' for my homepages, so I think its not worth to follow.
